@@ -12,4 +12,4 @@ hi, I am Sristy .I hope I can change my future.
 
 ![image2](https://github.com/ChowdhurySristy/design/assets/126653806/6ecd55f0-eb14-4e3d-b29a-fd7167421b72)
 
-dfdddfg
+hello. here is connection between VS code and GitHub

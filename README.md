@@ -5,6 +5,6 @@
  * task2-1
  * task2-2
 
-ami1
-ami2
-ami3
+1. ami1
+2. ami2
+3. ami3

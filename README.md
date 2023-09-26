@@ -5,5 +5,6 @@
  * task2-1
  * task2-2
 
-![](![image](https://github.com/ChowdhurySristy/design/assets/126653806/8d601a73-4da1-4a60-af20-bad761d10205)
+![image](https://github.com/ChowdhurySristy/design/assets/126653806/baee9920-7b88-47c5-a62c-373d8eeab1bb)
+
 
